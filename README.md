@@ -1,4 +1,4 @@
-[Ссылка на проект]https://hariton-dev.github.io/russian-travel/
+[Ссылка на проект](https://hariton-dev.github.io/russian-travel/)
 
 # "Путешествия по России"
 
@@ -21,4 +21,4 @@
 * Git
 * адаптивная верстка - медиазапросы
 
-[Ссылка на проект]https://hariton-dev.github.io/russian-travel/
+[Ссылка на проект](https://hariton-dev.github.io/russian-travel/)
